@@ -1,4 +1,4 @@
-[![MDlogo](mdlogo.png "MD Logo")](index.md)
+[![MDlogo](img/mdlogo.png "MD Logo")](index.md)
 
 [Home](home/index.md)
 [College](college/index.md)

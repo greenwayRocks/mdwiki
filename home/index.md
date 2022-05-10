@@ -9,4 +9,5 @@
 
 ** Note ** -- These wikis can be hard or soft to read, don't mind any one of them - lol my tip goes like that!
 
-![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Some Logo")
+![sample_img](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
+
