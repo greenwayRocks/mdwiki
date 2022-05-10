@@ -27,6 +27,10 @@
 
 [Coconut Oil]()
 
+  * # Life Saver
+  * [# Bash_it](snips/bash.md)
+  * [* Lotion](snips/lotion.md)
+  ----
   * # Not ready yet!
   
 [gimmick:theme](readable)
