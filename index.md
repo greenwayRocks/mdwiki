@@ -15,8 +15,8 @@
 
     Any indented text is a highlighted block?
     
-![car1](../img/mini_blue_1.jpg)
-![car2](../img/mini_blue_2.jpg)
+![car1](img/mini_blue_1.jpg)
+![car2](img/mini_blue_2.jpg)
 
 <hr>
 
