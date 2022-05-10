@@ -22,15 +22,16 @@
   * [Jenkins]()
   ----
   * # SANS
-  * [Unix Hardening](.md)
+  * [Unix Hardening]()
   * [Network Pentesting](.md)
 
 [Coconut Oil]()
 
-  * # Life Saver
+  * # LifeSaver Snips
   * [# Bash_it](snips/bash.md)
-  * [* Lotion](snips/lotion.md)
+  * [& Smoothie](snips/smooth.md)
   ----
-  * # Not ready yet!
+  * # My way to Go?
+  * [Diaries](diary/diary.md)
   
 [gimmick:theme](readable)

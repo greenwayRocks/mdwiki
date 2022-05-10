@@ -20,7 +20,7 @@
 
 <hr>
 
-### _ Visit my links --  [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md) -- [Diary](diary/diary.md) _
+### _ Visit my links --  [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md) -- [Navigation](navigation.md) _
 
     Let's have a coffee today? ☕️ @ May 10, 2022
 <hr>
