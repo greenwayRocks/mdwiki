@@ -1,6 +1,6 @@
 <h3 align="center"> ✨ Write some wikis ?  ✨ </h3>
 
-> Whatever your hand finds to do, do it with all your might ❤️
+> Look, if you wanna go, then go. Just be sure it's what you want. ❤️
 
 <hr>
 
@@ -22,5 +22,5 @@
 
 ### _ Visit my links --  [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md) -- [Navigation](navigation.md) _
 
-    Let's have a coffee today? ☕️ @ May 10, 2022
+    Let's have a coffee today? ☕️ @ May 11, 2022
 <hr>

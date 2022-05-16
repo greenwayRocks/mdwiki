@@ -1,13 +1,29 @@
-### _ So what do I intend to do? _
+### _ Well it seems all great, but what do I do? _
 
-> With low mental overhead, write wikis and move with workflow. ** No more ricing! **
+** Note --**  My `diary for the day` is where I start, create tasks and end my day.
 
-### _ Well it sounds all great, and then what? _
+  * ** [Today's Diary](#!diary/2022-05-11.md) **
+  * ** [Tasks At Hand](#!tasks.md) **
+  
+----
 
-    There might always be a "then" in the "now", that I needn't concern myself with.
-    It is the ~~now~~ :: isn't it? Well, figure that out yourself.
+### _ Projects and Side Projects _
 
-** Note ** -- These wikis can be hard or soft to read, don't mind any one of them - lol my tip goes like that!
+** I started with projects: ** `wiki-push automation` and `project manager script`.
+
+> `Projects` I'm working on:
+
+  * ** [Nmap scanning]() **
+  * ** [LateX]() **
+  * ** [Project Mgmt]() **
+
+> `Side Projects` I have:
+
+  * ** Complete `pgmr` script **
+  * ** Auto-update `Today's Diary` link **
+  * ** Integrate `Treesitter, Ultisnips, CoC` in Neovim **
+
+----
+> More Ideas ? `Fill me in!`
 
 ![sample_img](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
-

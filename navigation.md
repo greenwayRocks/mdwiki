@@ -1,37 +1,48 @@
 [![MDlogo](img/mdlogo.png "MD Logo")](index.md)
 
-[Home](home/index.md)
+[Home](diary/2022-05-16.md)
 [College](college/index.md)
 
 [Development]()
 
-  * # Game Dev
-  * [SFML]()
+  * # SANS
+  * [SEC560](dev/sans/sec560/index.md)
   ----
-  * # Web Dev
-  * [Svelte]()
+  * # Unix Powertools
+  * [Ptools](dev/ptools/index.md)
   ----
-  * # Docs
-  * [LateX]()
+  * # LinuxFoundation
+  * [Lfce](dev/lfce/index.md)
+  ----
+  * # Youtube
+  * [Yt](dev/yt/index.md)
+  ----
+  * # More
+
+[Library]()
+
+  * # Coconut Oil
+  * [# Unix 101](lib/unix-101.md)
+  ----
+  * # All_of_IT ?
+  * [Diaries](diary/diary.md)
 
 [Stash]()
 
+  * # Docs
+  * [RMarkdown]()
+  ----
   * # Essential Tools
   * [Ansible]()
   * [Tshark]()
   * [Jenkins]()
   ----
-  * # SANS
-  * [Unix Hardening]()
-  * [Network Pentesting](.md)
-
-[Coconut Oil]()
-
-  * # LifeSaver Snips
-  * [# Bash_it](snips/bash.md)
-  * [& Smoothie](snips/smooth.md)
+  * # Web Dev
+  * [Svelte]()
   ----
-  * # My way to Go?
-  * [Diaries](diary/diary.md)
+  * # Game Dev
+  * [SFML]()
+
+[Tasks](tasks.md)
   
 [gimmick:theme](readable)
