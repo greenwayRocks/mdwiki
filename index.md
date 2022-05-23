@@ -4,14 +4,14 @@
 
 <hr>
 
-### _ Introduction -- _
+### _ Introduction ➜ _
 
 ```bash
 #!/bin/bash -
 # boiler bash code
 ```
 
-**Note** -- is this a `good note`?
+**Note** ➜  is this a `good note`?
 
     Any indented text is a highlighted block?
     
@@ -20,7 +20,13 @@
 
 <hr>
 
-### _ Visit my links --  [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md) -- [Navigation](navigation.md) _
+### _ Visit my links ➜ _  _[Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)_ ➜  _[Navigation](navigation.md)_ 
 
-    Let's have a coffee today? ☕️ @ May 11, 2022
+  _ How much more can I `push the boundaries` of what I'm doing ? _
+  _ Well I wonder. _
+
+    Quite the questions that are better left unanswered.
+
+<hr>
+    Let's have a coffee today? ☕️ @ May 20, 2022
 <hr>

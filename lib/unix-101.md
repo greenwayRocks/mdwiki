@@ -1,5 +1,8 @@
 ### _ Unix Library 101 _
 
+** NOTE ** - Stuffs that I `want here` are `there in youtube projects and book projects.
+** e.g. ** - Luke smith's content.
+
 >  Need a `ssh-session` connection for some script work:
 
 ```bash

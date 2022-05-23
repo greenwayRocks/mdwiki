@@ -3,7 +3,10 @@
 If you want "dev" projects, `remember` to add 'More' wala link, so that `sed knows`.
 
 ### _ Project stuffs _ | +ws
-* [ ] Setup Fedora VMs for adv. networking  #a41e4c28
+* [X] Swallow dwm windows  #8713548e
+* [X] Setup Fedora VMs for adv. networking  #a41e4c28
+* [ ] Theme toggler mdwiki  #7bb668c1
+* [ ] Snippets for markdown  #4e894732
 
 ### _ Vim stuffs _ | +vim
 * [ ] Vim floaterm  #db31db55
@@ -17,3 +20,4 @@ If you want "dev" projects, `remember` to add 'More' wala link, so that `sed kno
 * [ ] Image previewer, in ranger too?  #fba66a3d
 * [ ] Today's date in `index.md`  #715a64c9
 * [ ] Start using rofi  #2a6be364
+* [ ] See what R-Md is  #1075db52

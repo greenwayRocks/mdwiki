@@ -2,4 +2,4 @@
 
 ### _ In-depth Scanning _
 
-
+> Tweak scans yourself to better find vulnerabilities. Use netcat well.

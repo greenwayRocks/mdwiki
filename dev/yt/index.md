@@ -10,6 +10,8 @@
 ### _ More _
 
 * gotbletu
+* arnold robins
+* jason cannon
 * TerminalForLife
 
 * Eric Murphy

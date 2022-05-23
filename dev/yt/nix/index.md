@@ -1,3 +1,11 @@
-## _ NixCasts is great! _
+## _ NixCasts - great old things! _
 
-### _ What am I going to learn here? _
+> _ Let's `find` something ? _
+
+```bash
+find . -type f -regex ".*\.\(md\|html\)"
+```
+
+and then ...
+
+    $ $cmd1 | xargs echo | tr " " "\n" | shuf | xargs xwallpaper --zoom

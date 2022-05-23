@@ -1,10 +1,11 @@
-## _ Linux Foundation Certified Engineer _
+## _ ➜  Linux Foundation Certified Engineer ➜  _
 
 - Engineer Level certification
 - Wider ranger, great depth of skills
 - Focusing on `why & how things work` at a deeper level
 
 ### _ Why and how does it work this way ?? _
+
 Find foo out!
 Neat.
 Wait, do I always have to answer? Well the wiki goes some way of blah and there is a story!
@@ -12,10 +13,7 @@ No no no, you're gonna `ripgrep` later for this text, ain't you?
 Or more, could you just bind "Ctrl-f" to `fzf` or `rofi` and ripgrep or get just the file opened or whatever.
 The story of ripgrep is that it `goes through all text` to check for that word.
 So the next time I'll just ripgrep here.
-Neat tools and not more of a fun anymore, huh?
-Well I don't have to conform anymore.
-The means is the ends, and it lets you end ... know how dying is living?
-Otherwise I'm not living.
+Neat tools, that `actually do the job`.
 This text is a pain in the ass now, just because my knowledge blahed me!
 
 Well this looks way better `while typing` than `viewing them` as a markdown file.
@@ -25,27 +23,57 @@ Well I don't know now and ever! ##
 
 Summary: `see things` - how they work and why they work eventually.
 
+### _ The Lab Setup _
 
-### _ I could not get bored. Just a tip. _
-I now <F12> my way to typing headers, vim has it going!
-Snippets I used, could grab and set up but later into "coco" works. $$ COCONUT OIL stuffs $$
-`I say it now` because `the wallpapers fit right that way and `the thing I type on` are heaven and hell.
+The server setup of 3 VMs : Fedora's cloned in Vmware. See network setup.
 
-$ tasks +vim "Here I go, if not now" is always there.
+* server0 -> NAT + innet1 + innet2
+* server1 -> innet1
+* server2 -> innet2
 
-I don't like to use them, they are okay. Your setup, your thing.
-===== SKIP THIS ========
+`$ nmtui` is great at setting the IPs. Learn `$ nmcli` well though, had to install the tui additionally.
 
-### _ No more "going off" to something else _
-You're gonna be an `engineer` now, but there is `no reward` or `punishment` anywhere. Feel free.
-I'm gonna <F12> now for next title.
+* server0 config --
+- For the "innet1" network, server0's static IP is set to `192.168.1.1/24`.
+- For the "innet2" network, server0's static IP is set to `192.168.2.1/24`.
+- NAT will default DHCP and provide `internet access`. [ 192.168.163.128/24 - vmnet8]
 
-### _ Lab Setup - easy peasy if you know it's easy _
-Well well, there is a lab setup, yeah "3" actually.
-My fedora goes well, not particular to `linux distros` though. We can learn easy.
-Lot of "wiki text" though. Not having had written `a script`, I would still jump to writing a simple one ...
-yet does the job are `always amazing`. Well that and more in Anthony Nocentino's - Advanced Linux Networking!
-Tune up!
+* server1 config --
+- "innet1" network with an IP of `192.168.1.100/24` & a gateway of `192.168.1.1`.
+- Now `ping server0`.
 
+* server2 config --
+- "innet2" network with an IP of `192.168.2.200/24`. Let's setup `gateway later`.
+- `Ping server0`.
 
+### _ Advanced Linux Networking _
+
+Heading this way:
+
+Networking Topologies -> Networking Devices -> OSI Model to --
+-- how data moves through a network --
+
+  [Network Topology](ntopo.md)
+
+### _ Advance Linux Network & Sys Administration _
+
+I'm more interested in **how things work**.
+If I know _how they work_ -- now just how to perform a task,
+I become a better _problem solver_ & increase my value as a _Linux Professional_.
+
+What's running on my system?
+  [Managing Network Services](netserv.md)
+  
+How to monitor my system's performance?
+  [Monitor System Performance]()
+
+Manage softwares in our data centers?
+  [Advanced Package Management]()
+  
+Manage and configure NFS (Network File System)
+  [NFS]()
+
+Get Windows and Linux systems to share resources
+  [Samba]()
+  
 ### _ Over and out! _
