@@ -2,20 +2,28 @@
 
 > Starting out with `grep, sed && awk` tools in my Unix.
 
+The _common thread_ across all roles in IT is:
+* knowing how to write code to **solve problems**
+* and **automate solutions.**
+
 ### _ -- Index -- _
 
-Andrew Mallett's --
-  [Sed and Awk](sed_awk/index.md)
+>> Shell scripting
 
-Linux Academy's --
   [Shell Scripting](sh/index.md)
+  -- by Linux Academy --
+  
+  [Wicked cool shell scripts](wicked/index.md)
 
-Pluralsight Hussain's --
-  [Processing, Filtering Text](text-proc.md)
+>> Text processing 
+
+  [Processing, Filtering Text](text_proc/index.md)
+  -- by Pluralsight's Hussain --
   
-Arnold Robbin's --
-  [Classical Shell Scripting](classic/index.md)
+  [Sed and Awk](sed_awk/index.md)
+  -- by Andrew Mallett --
   
-Bookies --
+>> Learn the PROs
+
   [Linux In Action]()
   [CyberSecurity Ops]()

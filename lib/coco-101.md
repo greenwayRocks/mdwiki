@@ -1,9 +1,9 @@
 ### _ Unix Library 101 _
 
-** NOTE ** - Stuffs that I `want here` are `there in youtube projects and book projects.
-** e.g. ** - Luke smith's content.
+**NOTE** - Stuffs that I `want here` are `there in youtube projects and book projects.
+**e.g.** - Luke smith's content.
 
->  Need a `ssh-session` connection for some script work:
+### _ Need a `ssh-session` connection for some script work: _
 
 ```bash
     eval $(ssh-agent)
@@ -13,7 +13,7 @@
 
     eval $(ssh-agent -k)
 ```
-> Tmux `zoom-in` & `zoom-out` scripts:
+### _ Tmux `zoom-in` & `zoom-out` scripts: _
 
 ```bash
     #!/bin/bash
@@ -25,7 +25,7 @@
     tmux list-panes -F '#F' | grep -q Z && tmux resize-pane -Z
 ```
 
-> Tmux `workflow automation` script:
+### _ Tmux `workflow automation` script: _
 
 ```bash
   #!/bin/bash
@@ -64,12 +64,40 @@
   # Phase Three : There's no phase three, well done!
 ```
 
-> Capitalize `1st letter` in a string ?
+### _ Capitalize `1st letter` in a string ? _
 
 ```bash
   foo="bar"
   echo "$(tr '[:lower:]' '[:upper:]' <<< ${foo:0:1})${foo:1}"
   #returns 'Bar'
+```
+
+### _ FloatermSend _
+
+```vim
+" select and send command to terminal
+:'<.'>FloatermSend
+" Also `$ floaterm newFile` to edit a new one.
+```
+
+### _ aria2c to download torrent? _
+
+```bash
+# to see file indexes
+aria2c --show-files your-torrent-file.torrent
+
+# then use it like
+aria2c --select-file=3,6 your-torrent-file.torrent
+
+# to download magnet link
+aria2c "magnet-link"
+```
+
+### _ auto detect default package manager _
+
+```bash
+find_pkm() { for i;do command -v "$i" > /dev/null 2>&1 && { printf "%s" "$i"; return 0;};done;return 1; }
+PKMGR=$(find_pkm apt apt-get aptitude dnf emerge eopkg pacman zypper)
 ```
 
 > **More to go :v**

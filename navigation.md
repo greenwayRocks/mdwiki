@@ -1,6 +1,6 @@
 [![MDlogo](img/mdlogo.png "MD Logo")](index.md)
 
-[Home](diary/2022-05-23.md)
+[Home](diary/2022-05-30.md)
 [College](college/index.md)
 
 [Development]()
@@ -17,12 +17,12 @@
   * # Youtube
   * [Yt](dev/yt/index.md)
   ----
-  * # More
+  * [--help](dev/--help/index.md)
 
 [Library]()
 
   * # Coconut Oil
-  * [# Unix 101](lib/unix-101.md)
+  * [Unix 101](lib/coco-101.md)
   ----
   * # All_of_IT ?
   * [Diaries](diary/diary.md)

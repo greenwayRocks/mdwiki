@@ -22,8 +22,8 @@
 
 ### _ Visit my links ➜ _  _[Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)_ ➜  _[Navigation](navigation.md)_ 
 
-  _ How much more can I `push the boundaries` of what I'm doing ? _
-  _ Well I wonder. _
+  _ **Creativity** is allowing yourself to make mistakes. _
+  _ Well then maybe **ART** is knowing which ones to keep. _
 
     Quite the questions that are better left unanswered.
 

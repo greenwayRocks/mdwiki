@@ -5,11 +5,13 @@ If you want "dev" projects, `remember` to add 'More' wala link, so that `sed kno
 ### _ Project stuffs _ | +ws
 * [X] Swallow dwm windows  #8713548e
 * [X] Setup Fedora VMs for adv. networking  #a41e4c28
-* [ ] Theme toggler mdwiki  #7bb668c1
-* [ ] Snippets for markdown  #4e894732
+* [X] Theme toggler mdwiki  #7bb668c1
+* [X] Snippets for markdown  #4e894732
+* [ ] scan with nmap  #b08f39a2
+* [ ] make coco-101 work  #bb72cc07
 
 ### _ Vim stuffs _ | +vim
-* [ ] Vim floaterm  #db31db55
+* [X] Vim floaterm  #db31db55
 * [ ] Vim Ultisnips for MD diary & wikis  #e7c9ccdd
 
 ### _ Coconut Oil stuffs _ | +coco
