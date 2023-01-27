@@ -4,8 +4,14 @@
 
 ### _ The channels _
 
+  **Unix Powertools**
   [nixcasts](nix/index.md)
   [lukesmith](smith/index.md)
+  
+  **Photo/Video Editing**
+  [denshi](denshi/index.md)
+  egator, fanky(r) => Photoshop
+  DhristiConeProductions => Davinci Resolve 
   
 ### _ More _
 

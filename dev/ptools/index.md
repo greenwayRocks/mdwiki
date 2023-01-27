@@ -13,6 +13,8 @@ The _common thread_ across all roles in IT is:
   [Shell Scripting](sh/index.md)
   -- by Linux Academy --
   
+  [GNU Bash Advanced Usage](gnuBash/index.md)
+  
   [Wicked cool shell scripts](wicked/index.md)
 
 >> Text processing 

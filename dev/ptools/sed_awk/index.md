@@ -4,3 +4,7 @@
 I started out by learning "grep", "regex" and creating a "parser" tool.
 
     Usage: ./parser tools | grep -A2 tool
+
+Make that tool now!
+
+

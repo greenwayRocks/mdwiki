@@ -1,30 +1,33 @@
 [![MDlogo](img/mdlogo.png "MD Logo")](index.md)
 
-[Home](diary/2022-05-30.md)
+[Diary](diary/2023-01-27.md)
+[Home](home/index.md)
 [College](college/index.md)
 
 [Development]()
 
-  * # SANS
-  * [SEC560](dev/sans/sec560/index.md)
+  * # The Shell
+  * [Powertools](dev/ptools/index.md)
+  * [LFCE](dev/lfce/index.md)
   ----
-  * # Unix Powertools
-  * [Ptools](dev/ptools/index.md)
+  * # SANS Training
+  * [Network Pentest](dev/sans/sec560/index.md)
   ----
-  * # LinuxFoundation
-  * [Lfce](dev/lfce/index.md)
+  * # PentesterAcademy
+  * [Windows Security](dev/pentester/wsec/index.md)
   ----
-  * # Youtube
-  * [Yt](dev/yt/index.md)
+  * # The Youtube
+  * [Youtube](dev/yt/index.md)
   ----
-  * [--help](dev/--help/index.md)
+  * [One](dev/one/index.md)
 
 [Library]()
 
-  * # Coconut Oil
-  * [Unix 101](lib/coco-101.md)
+  * # The Unix Way
+  * [101](lib/unix-101.md)
+  * [102](lib/unix-102.md)
   ----
-  * # All_of_IT ?
+  * # SomethingToWrite?
   * [Diaries](diary/diary.md)
 
 [Stash]()

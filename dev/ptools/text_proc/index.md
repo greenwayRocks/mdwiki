@@ -84,6 +84,10 @@ grep -i -w -n "shut*down" /var/log/messages
 ```
 
 **Follow:**
-  [Basic Text Handling](basics.md)
+  == Basic Text Handling ==
 _-- covers_ **diff, wc, nl, tr, sort, uniq, cut, paste, join**
+  Diff files [diff](basics/diff.md)
+  Count words [wc](basics/wc.md)
+  Number lines [nl](basics/nl.md)
+  Translate [tr](basics/tr.md)
   

@@ -1,14 +1,17 @@
-<h3 align="center"> ✨ Write some wikis ?  ✨ </h3>
+<h2 align="center"> ✨ Write something ?  ✨ </h3>
 
-> Look, if you wanna go, then go. Just be sure it's what you want. ❤️
+<h4 align="center"> -- It's easy to miss something you're not looking for -- </h3>
 
 <hr>
 
 ### _ Introduction ➜ _
 
 ```bash
-#!/bin/bash -
-# boiler bash code
+#! /bin/bash -
+genpass() {
+  tr -dc 'a-zA-Z0-9._#@-' < /dev/urandom | head -c ${1:-14};
+  echo
+}
 ```
 
 **Note** ➜  is this a `good note`?
@@ -20,13 +23,6 @@
 
 <hr>
 
-### _ Visit my links ➜ _  _[Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)_ ➜  _[Navigation](navigation.md)_ 
+> <h5 align="center">  ☕️ Let's have a coffee today?  ☕️ </h3>
 
-  _ **Creativity** is allowing yourself to make mistakes. _
-  _ Well then maybe **ART** is knowing which ones to keep. _
-
-    Quite the questions that are better left unanswered.
-
-<hr>
-    Let's have a coffee today? ☕️ @ May 20, 2022
-<hr>
+----
