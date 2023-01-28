@@ -1,30 +1,31 @@
-### _ Well it seems all great, but what do I do? _
+```bash
+#!/bin/bash
 
-** Note --**  My `diary for the day` is where I start, create tasks and end my day.
+# Wiki update script --
 
-  * ** [Today's Diary](#!diary/2022-05-11.md) **
-  * ** [Tasks At Hand](#!tasks.md) **
-  
-----
+# syntax: wiki-update "COMMIT message"
 
-### _ Projects and Side Projects _
+if [[ -z "$1" ]]; then
+  echo "Pass a commit message!"
+  exit 1
+fi
 
-** I started with projects: ** `wiki-push automation` and `project manager script`.
+wiki_dir=/var/shared/wiki
 
-> `Projects` I'm working on:
+# SSH to github
+eval $(ssh-agent)
+ssh-add ~mario/.ssh/id_rsa
 
-  * ** [Nmap scanning]() **
-  * ** [LateX]() **
-  * ** [Project Mgmt]() **
+cd $wiki_dir || exit 1
 
-> `Side Projects` I have:
+echo "-- Updating files to github ... "
+git add .
 
-  * ** Complete `pgmr` script **
-  * ** Auto-update `Today's Diary` link **
-  * ** Integrate `Treesitter, Ultisnips, CoC` in Neovim **
+echo "-- Commiting your message ... "
+git commit -m "$1"
 
-----
-> More Ideas ? `Fill me in!`
+echo "Finally, pushing! ... "
+git push -u origin gh-pages && echo "-- Done, well scripted! --"
 
-![sample_img](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
-
+eval $(ssh-agent -k)
+```

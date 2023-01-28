@@ -6,17 +6,17 @@
 
 [Development]()
 
-  * # Shell Tools
+  * # The Shell
   * [Powertools](dev/ptools/index.md)
   * [LFCE](dev/lfce/index.md)
   ----
-  * # The SANS Ways
+  * # SANS Training
   * [Network Pentest](dev/sans/sec560/index.md)
   ----
-  * # AttackDefense
+  * # PentesterAcademy
   * [Windows Security](dev/pentester/wsec/index.md)
   ----
-  * # Handy YT
+  * # The Youtube
   * [Youtube](dev/yt/index.md)
   ----
   * [One](dev/one/index.md)
@@ -35,6 +35,15 @@
   * # Docs
   * [RMarkdown]()
   ----
-
+  * # Essential Tools
+  * [Ansible]()
+  * [Tshark]()
+  * [Jenkins]()
+  ----
+  * # Web Dev
+  * [Svelte]()
+  ----
+  * # Game Dev
+  * [SFML]()
 
 [gimmick:theme](readable)
