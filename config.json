@@ -1,5 +1,5 @@
 {
-    "useSideMenu": true,
+    "useSideMenu": false,
     "lineBreaks": "gfm",
     "additionalFooterText": "Wiki's &copy; by Satish Adhikari ➜  ",
     "anchorCharacter": "&#x2693;",
