@@ -1,8 +1,7 @@
 [![MDlogo](img/mdlogo.png "MD Logo")](index.md)
 
 [Home](home/index.md)
-[Diary](diary/2023-01-28.md)
-[College](college/index.md)
+[HTB](htb/index.md)
 
 [Development]()
 
@@ -29,12 +28,6 @@
   ----
   * # SomethingToWrite?
   * [Diaries](diary/diary.md)
-
-[Stash]()
-
-  * # Docs
-  * [RMarkdown]()
-  ----
 
 
 [gimmick:theme](readable)
