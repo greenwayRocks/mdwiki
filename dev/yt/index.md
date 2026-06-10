@@ -2,16 +2,13 @@
 
 > So what are those sources ?
 
-### _ The channels _
 
-  **Unix Powertools**
-  [nixcasts](nix/index.md)
-  [lukesmith](smith/index.md)
+  **Unix**
+  [Windows Manager Tweaks](winmgr.md)
   
   **Photo/Video Editing**
-  [denshi](denshi/index.md)
-  egator, fanky(r) => Photoshop
-  DhristiConeProductions => Davinci Resolve 
+  [FFmpeg Editing](ffmpeg.md)
+  
   
 ### _ More _
 

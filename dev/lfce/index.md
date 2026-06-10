@@ -58,22 +58,17 @@ Networking Topologies -> Networking Devices -> OSI Model to --
 ### _ Advance Linux Network & Sys Administration _
 
 I'm more interested in **how things work**.
-If I know _how they work_ -- now just how to perform a task,
-I become a better _problem solver_ & increase my value as a _Linux Professional_.
+If I know _how they work_ -- now it's just how to perform a task, ...
+I can become a better _problem solver_ & increase my value as a _Linux Professional_.
 
-What's running on my system?
-  [Managing Network Services](netserv.md)
+- What's running on my system?
   
-How to monitor my system's performance?
-  [Monitor System Performance]()
+- How to monitor my system's performance?
 
-Manage softwares in our data centers?
-  [Advanced Package Management]()
+- Manage softwares in our data centers?
   
-Manage and configure NFS (Network File System)
-  [NFS]()
+- Manage and configure NFS (Network File System)
 
-Get Windows and Linux systems to share resources
-  [Samba]()
+- Get Windows and Linux systems to share resources
   
 ### _ Over and out! _

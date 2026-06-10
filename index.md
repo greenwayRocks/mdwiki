@@ -23,6 +23,6 @@ genpass() {
 
 <hr>
 
-> <h5 align="center">  ☕️ Let's have a coffee today?  ☕️ </h3>
+> <h5 align="center">  ☕️ HackTheBox CPTS Preparation - Visit '[Home](home/README.md)'  ☕️ </h3>
 
 ----

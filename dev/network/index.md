@@ -1,30 +1,58 @@
-### _ Intro, you can skip? Yeah go ahead! _
+## _ In-depth Scanning _
 
-> _ Yeah go ahead **BUT** here goes this project with 1 finger-stroke? Let's do this. _
+> Tweak scans yourself to better find vulnerabilities. Use netcat well.
 
-My stupid screenkeys were: <C-n>b to go to "~/.bashrc" file in my "home" directory.
-Why? I wanted to edit that file. What story has it?
+Find services and versions of those services running in **target host** system.
+Use **Nessus** for automated vulnerability scanning.
 
-Whose home directory? Your user's. The computer user neccesary for the OS to login. Check out:
-```bash
-$ whoami # the user logged in now.
-```
-Where you type it is a "command shell". It spawns great and gives, called **prompt** of the shell.
-It's an _interpreter_ to the **fundamental**, uses the language **BASH** that runs all Mac and Linux and now Windows too.
-You have actually heard of **Python**, I know. It's just like that, but learn how to apply **scrpting** where ;
-in the sense, you can write **your own tools**, aliases - read light, god these terms _you use though_.
-It's great to know how these computers work, and make it easy to do things on your own.
-I remember I had a Oracle Cloud account (free tier) but needs a **credit card**.
-You can spawn **limited OSes** in your cloud but great if I **buy a domain name** online.
-I'll do this. And let's not write too much.
+### _ Scan Types _
 
-Let's make this simple.
-I didn't do it cause I scripted "pmgr $project_name" to goto any project or create new one or just pmgr would do the jobs.
-My Lord what do you want in Linux says you I guess. 
-I guess everything is a file in Linux.
+* Network Sweeping
+* Network Tracing (topology)
+* Port Scanning
+* OS fingerprinting
+* Version Scanning
+* Vulnerability Scanning
 
-Ricing Done well? Yeah the pmgr is good and the editor's feel too!
-Well then move onto this new brand one. Let's talk less from now on, alright?
-Done for now.
+Round-robin DNS may alter a target system, while the test is occuring.
+So use IP addresses to scan, and not hostnames.
+**NOTE**
+Also, a single IP address may be load balanced across multiple targets.
+For websites thought, I may need to use a domain name.
 
+### _ Scenarios _
 
+> Scan 1000 hosts, all ports
+
+All 65,536 TCP and 65,536 UDP ports.
+
+If it took 1 second for each port, scan alone would take 4.15 years.
+
+If it took 1 second for 100 ports, it would still take 15 days.
+
+So what better ways?
+& **Sample target machines**
+& **Sample target ports**
+
+Review **Network Firewall ruleset** and measure only reasonable ports that could make it through the firewall.
+
+-- The firewall rules may not be updated well e.g. while pulling a system out, they don't close those ports.
+-- If there's a PORT open in firewall, that service is behind it somewhere!
+
+I can also **tweak firewall rules** to send RESETs and ICMP Port to _speed up_ scans.
+
+### _ Hyperfast port scanning methods _
+
+**Tools:** Masscan, ScanRand, ZMap, SuperScan, Unicornscan
+**Downside:** I could create a **denial of service** (DOS) scan.
+
+Be very careful, use a rate-limiting thing in these scanners,
+I could easily take a service offline with no intention.
+
+----
+
+**Follow here:**
+[Masscan](masscan.md)
+Sniffing with [Tcpdump](tcpdump.md)
+[Portscanning with Nmap](pscan.md)
+[Host Discovery](hdiscovery.md)

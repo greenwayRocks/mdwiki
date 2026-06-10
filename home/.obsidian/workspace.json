@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "8a31f87688800cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bd313c7fc0f956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1048d86a0ff6620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7e77cb7c49f38b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23da0445c46e9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf7a11747efda1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35f50c6d3eb16e55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f8ce47a474e2a05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "415637ae4b7b0451",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cda2d0116386299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ee7d6adf901a7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "e00c608984cb6950",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "b4c8a0582652c8d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "921ca674af5189be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9a57983eee48e99a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a1048d86a0ff6620",
+  "lastOpenFiles": [
+    "README.md",
+    "README.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/README.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Findings/H1 - Kerberoasting.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Findings/H2 - ASREPRoasting.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Findings/H5 - Local Admin Password Reuse.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Findings/L1 - Directory Listing Enabled.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Notes/2. Scoping Information.md",
+    "documentation-reporting/HTB_Academy_EXAMPLE/Inlanefreight Penetration Test/Evidence/Notes/1. Administrative Information.md",
+    "linux-priv-esc/services-internals-enumeration.md",
+    "remote-management/linux-remote-protocols.md",
+    "active-directory-enumeration-attacks/skills-assessment-part-2.md",
+    "footprinting.md",
+    "databases/mysql-enumeration.md",
+    "web-attacks/README.md",
+    "file-upload-attacks/README.md",
+    "pivoting-tunneling-port-forwarding/skills-assessment.md",
+    "passwords-attacks/skills-assessment-workflow.md",
+    "passwords-attacks/custom-wordlists-rules.md",
+    "attacking-common-applications/README.md",
+    "web-attacks/skills-assessment.md",
+    "firewall-evasion.md",
+    "active-directory-enumeration-attacks/skills-assessment-part-1.md",
+    "linux-priv-esc/dirty-pipe.md",
+    "attacking-enterprise-networks/README.md"
+  ]
+}
